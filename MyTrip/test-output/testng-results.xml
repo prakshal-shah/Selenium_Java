@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-07-07T17:55:28 IST" name="Default suite" finished-at="2021-07-07T17:56:05 IST" duration-ms="36515">
+    <groups>
+    </groups>
+    <test started-at="2021-07-07T17:55:28 IST" name="Default test" finished-at="2021-07-07T17:56:05 IST" duration-ms="36515">
+      <class name="testNG_Practice.Make_My_Trip">
+        <test-method is-config="true" signature="setup()[pri:0, instance:testNG_Practice.Make_My_Trip@be35cd9]" started-at="2021-07-07T17:55:28 IST" name="setup" finished-at="2021-07-07T17:55:46 IST" duration-ms="17326" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="fill_details()[pri:1, instance:testNG_Practice.Make_My_Trip@be35cd9]" started-at="2021-07-07T17:55:46 IST" name="fill_details" finished-at="2021-07-07T17:56:03 IST" duration-ms="17135" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fill_details -->
+        <test-method signature="estimation()[pri:2, instance:testNG_Practice.Make_My_Trip@be35cd9]" started-at="2021-07-07T17:56:03 IST" name="estimation" finished-at="2021-07-07T17:56:03 IST" duration-ms="249" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- estimation -->
+        <test-method signature="low_price()[pri:3, instance:testNG_Practice.Make_My_Trip@be35cd9]" started-at="2021-07-07T17:56:03 IST" name="low_price" finished-at="2021-07-07T17:56:03 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- low_price -->
+        <test-method is-config="true" signature="main()[pri:0, instance:testNG_Practice.Make_My_Trip@be35cd9]" started-at="2021-07-07T17:56:03 IST" name="main" finished-at="2021-07-07T17:56:05 IST" duration-ms="1724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- testNG_Practice.Make_My_Trip -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
