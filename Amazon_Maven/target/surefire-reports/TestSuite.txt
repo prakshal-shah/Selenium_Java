@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 50.5 s <<< FAILURE! - in TestSuite
+AamazonMaven.Amazon_Maven.search_product.getPrice  Time elapsed: 1.209 s  <<< FAILURE!
+java.lang.NumberFormatException: For input string: "1,299"
+	at AamazonMaven.Amazon_Maven.search_product.getPrice(search_product.java:37)
+
+AamazonMaven.Amazon_Maven.search_product.minPrice  Time elapsed: 0.001 s  <<< FAILURE!
+java.lang.NullPointerException: Cannot invoke "java.util.Collection.iterator()" because "coll" is null
+	at AamazonMaven.Amazon_Maven.search_product.minPrice(search_product.java:44)
+

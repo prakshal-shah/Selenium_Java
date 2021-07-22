@@ -1,0 +1,10 @@
+11:47:52.427 [main] INFO  resources.base - Initialized
+11:48:03.555 [main] INFO  AamazonMaven.Amazon_Maven.SignUp - Successfully hovered onto signup details
+11:48:03.555 [main] INFO  AamazonMaven.Amazon_Maven.SignUp - Filling signup details
+11:48:05.760 [main] INFO  AamazonMaven.Amazon_Maven.SignUp - Filled info Name Alex and emailei@ei12.com
+11:48:10.521 [main] INFO  AamazonMaven.Amazon_Maven.language - Properties path attached
+11:48:11.397 [main] INFO  AamazonMaven.Amazon_Maven.language - Move action performed to hover on language element
+11:48:16.019 [main] INFO  AamazonMaven.Amazon_Maven.language - Selected Language is Português - PT
+11:48:21.409 [main] INFO  AamazonMaven.Amazon_Maven.Products - Searching for product Samsung
+11:48:25.491 [main] INFO  AamazonMaven.Amazon_Maven.Products - Fetching prices
+11:48:25.994 [main] INFO  AamazonMaven.Amazon_Maven.Products - Prices are in: $

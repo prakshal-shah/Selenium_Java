@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <test parallel="none" name="AllTests(failed)">
+    <classes>
+      <class name="AamazonMaven.Amazon_Maven.LanguageTest">
+        <methods>
+          <include name="initialization"/>
+          <include name="finalizer"/>
+        </methods>
+      </class> <!-- AamazonMaven.Amazon_Maven.LanguageTest -->
+      <class name="AamazonMaven.Amazon_Maven.homePage">
+        <methods>
+          <include name="initialize"/>
+          <include name="finalizer"/>
+        </methods>
+      </class> <!-- AamazonMaven.Amazon_Maven.homePage -->
+      <class name="AamazonMaven.Amazon_Maven.search_product">
+        <methods>
+          <include name="getPrice"/>
+          <include name="initialize"/>
+          <include name="minPrice"/>
+          <include name="finalizer"/>
+        </methods>
+      </class> <!-- AamazonMaven.Amazon_Maven.search_product -->
+    </classes>
+  </test> <!-- AllTests(failed) -->
+</suite> <!-- Failed suite [Suite] -->
