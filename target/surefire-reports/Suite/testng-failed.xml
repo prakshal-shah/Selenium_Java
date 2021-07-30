@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="AamazonMaven.Amazon_Maven.Listeners"/>
+  </listeners>
+  <test parallel="tests" name="Change language(failed)">
+    <classes>
+      <class name="AamazonMaven.Amazon_Maven.LanguageTest">
+        <methods>
+          <include name="initialization"/>
+          <include name="changeLanguage"/>
+          <include name="finalizer"/>
+        </methods>
+      </class> <!-- AamazonMaven.Amazon_Maven.LanguageTest -->
+      <class name="AamazonMaven.Amazon_Maven.HomePage">
+        <methods>
+          <include name="finalizer"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- AamazonMaven.Amazon_Maven.HomePage -->
+      <class name="AamazonMaven.Amazon_Maven.SearchProduct">
+        <methods>
+          <include name="finalizer"/>
+          <include name="initialize"/>
+        </methods>
+      </class> <!-- AamazonMaven.Amazon_Maven.SearchProduct -->
+    </classes>
+  </test> <!-- Change language(failed) -->
+</suite> <!-- Failed suite [Suite] -->
