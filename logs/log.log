@@ -1,212 +1,158 @@
-16:13:12.461 [TestNG-tests-2] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-16:13:12.461 [TestNG-tests-3] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-16:13:12.461 [TestNG-tests-1] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-16:13:16.863 [TestNG-tests-3] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-16:13:16.960 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-16:13:16.960 [TestNG-tests-1] INFO  resources.Base - Initialized
-16:13:22.304 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-16:13:29.174 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Hovered successfully
-16:13:29.556 [TestNG-tests-3] INFO  AamazonMaven.Amazon_Maven.Home_page - Hovered successfully
-16:13:29.557 [TestNG-tests-3] INFO  AamazonMaven.Amazon_Maven.Home_page - Move action performed to hover on language element
-16:13:32.291 [TestNG-tests-3] INFO  AamazonMaven.Amazon_Maven.Home_page - Language selected successfully
-16:13:32.450 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-16:13:32.450 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Successfully hovered onto signup details
-16:13:32.451 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Filling signup details
-16:13:32.946 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Home_page - Searching for product Samsung
-16:13:33.442 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenAlex
-16:13:33.576 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenSamsung
-16:13:33.763 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenei@ei12.com
-16:13:34.022 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text written12321
-16:13:34.422 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text written12321
-16:13:35.110 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-16:13:35.110 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Filled info Name Alex and emailei@ei12.com
-16:13:37.533 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-16:13:37.611 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetching prices
-16:13:37.689 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Prices are in: $
-16:13:38.397 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Prices Stored successfully
-16:13:38.397 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetched prices are: [599, 599, 399, 149, 40, 159, 129, 40, 20, 249, 197, 75]
-16:13:38.402 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Minimun amount is:20
-16:17:54.654 [TestNG] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-16:17:54.654 [TestNG] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-16:17:54.654 [TestNG] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-16:17:58.448 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-16:17:58.573 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-16:17:58.573 [TestNG] INFO  resources.Base - Initialized
-16:18:00.845 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-16:18:07.633 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Hovered successfully
-16:18:07.633 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Move action performed to hover on language element
-16:18:07.685 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Searching for product Samsung
-16:18:08.018 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenSamsung
-16:18:09.674 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Hovered successfully
-16:18:14.915 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-16:18:14.916 [TestNG] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Successfully hovered onto signup details
-16:18:14.916 [TestNG] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Filling signup details
-16:18:16.000 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenAlex
-16:18:16.451 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenei@ei12.com
-16:18:16.650 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Text written12321
-16:18:16.869 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Text written12321
-16:18:17.304 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-16:18:17.304 [TestNG] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Filled info Name Alex and emailei@ei12.com
-16:18:17.322 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Language selected successfully
-16:18:17.950 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-16:18:18.033 [TestNG] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetching prices
-16:18:18.148 [TestNG] INFO  AamazonMaven.Amazon_Maven.Search_page - Prices are in: $
-16:18:19.224 [TestNG] INFO  AamazonMaven.Amazon_Maven.Search_page - Prices Stored successfully
-16:18:19.224 [TestNG] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetched prices are: [899, 999, 599, 731, 599, 399, 149, 13, 129, 40, 599, 159, 20, 40, 19, 549, 249, 197, 38]
-16:18:19.225 [TestNG] INFO  AamazonMaven.Amazon_Maven.Search_page - Minimun amount is:13
-13:01:32.468 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-13:01:35.959 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-13:01:35.959 [main] INFO  resources.Base - Initialized
-13:02:58.389 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-13:03:01.482 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-13:03:01.482 [main] INFO  resources.Base - Initialized
-13:03:32.650 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-13:03:35.639 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-13:03:35.640 [main] INFO  resources.Base - Initialized
-13:04:08.015 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-13:04:10.935 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-13:04:10.935 [main] INFO  resources.Base - Initialized
-13:04:19.039 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Hovered successfully
-13:04:20.714 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-13:04:20.714 [main] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Successfully hovered onto signup details
-13:04:20.714 [main] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Filling signup details
-13:04:20.838 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenAlex
-13:04:21.083 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenei@ei12.com
-13:04:21.771 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Text written12321
-13:04:21.908 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Text written12321
-13:04:22.252 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-13:04:22.252 [main] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Filled info Name Alex and emailei@ei12.com
-15:47:56.868 [TestNG-tests-1] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-15:47:56.867 [TestNG-tests-2] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-15:47:56.868 [TestNG-tests-3] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-15:48:02.830 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-15:48:02.974 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-15:48:02.974 [TestNG-tests-1] INFO  resources.Base - Initialized
-15:48:06.274 [TestNG-tests-3] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-15:48:13.375 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Home_page - Searching for product Samsung
-15:48:14.506 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenSamsung
-15:48:17.817 [TestNG-tests-3] INFO  AamazonMaven.Amazon_Maven.Home_page - Hovered successfully
-15:48:17.817 [TestNG-tests-3] INFO  AamazonMaven.Amazon_Maven.Home_page - Move action performed to hover on language element
-15:48:20.096 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Hovered successfully
-15:48:22.056 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-15:48:22.056 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Successfully hovered onto signup details
-15:48:22.056 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Filling signup details
-15:48:22.272 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenAlex
-15:48:22.773 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-15:48:22.963 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetching prices
-15:48:23.112 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Prices are in: $
-15:48:23.215 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenei@ei12.com
-15:48:23.426 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text written12321
-15:48:23.598 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text written12321
-15:48:24.046 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-15:48:24.046 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Filled info Name Alex and emailei@ei12.com
-15:48:24.323 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Prices Stored successfully
-15:48:24.323 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetched prices are: [899, 999, 599, 599, 399, 154, 40, 159, 599, 129, 39, 20, 324, 19, 249, 197, 12, 20]
-15:48:24.330 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Minimun amount is:12
-15:48:28.364 [TestNG-tests-3] INFO  AamazonMaven.Amazon_Maven.Home_page - Language selected successfully
-11:28:19.547 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-11:28:23.960 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-11:28:29.291 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Hovered successfully
-11:28:29.292 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Move action performed to hover on language element
-11:28:35.373 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Language selected successfully
-11:28:58.906 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-11:29:02.928 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-13:48:53.610 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-13:48:58.955 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-13:50:31.599 [TestNG-tests-1] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-13:50:31.599 [TestNG-tests-2] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-13:50:31.599 [TestNG-tests-3] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-13:50:36.876 [TestNG-tests-3] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-13:50:37.000 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-13:50:37.001 [TestNG-tests-1] INFO  resources.Base - Initialized
-13:50:43.092 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-13:50:47.932 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Hovered successfully
-13:50:47.988 [TestNG-tests-3] INFO  AamazonMaven.Amazon_Maven.Home_page - Hovered successfully
-13:50:47.988 [TestNG-tests-3] INFO  AamazonMaven.Amazon_Maven.Home_page - Move action performed to hover on language element
-13:50:52.154 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-13:50:52.155 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Successfully hovered onto signup details
-13:50:52.155 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Filling signup details
-13:50:53.075 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenAlex
-13:50:53.374 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenei@ei12.com
-13:50:53.724 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text written12321
-13:50:54.123 [TestNG-tests-3] INFO  AamazonMaven.Amazon_Maven.Home_page - Language selected successfully
-13:50:54.189 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Home_page - Searching for product Samsung
-13:50:54.535 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text written12321
-13:50:54.756 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenSamsung
-13:50:54.843 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-13:50:54.843 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Filled info Name Alex and emailei@ei12.com
-13:50:59.067 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-13:50:59.126 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetching prices
-13:50:59.200 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Prices are in: $
-13:51:00.320 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Prices Stored successfully
-13:51:00.320 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetched prices are: [899, 999, 597, 599, 399, 154, 159, 129, 599, 40, 39, 249, 309, 21, 197, 20, 27, 20]
-13:51:00.325 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Minimun amount is:20
-13:51:44.719 [TestNG-tests-1] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-13:51:44.719 [TestNG-tests-2] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-13:51:44.719 [TestNG-tests-3] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-13:51:50.704 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-13:51:50.792 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-13:51:50.793 [TestNG-tests-1] INFO  resources.Base - Initialized
-13:51:53.477 [TestNG-tests-3] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-13:52:03.797 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Home_page - Searching for product Samsung
-13:52:16.264 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Hovered successfully
-13:52:16.807 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetching prices
-13:52:22.806 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-13:52:22.806 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Successfully hovered onto signup details
-13:52:22.806 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Filling signup details
-13:52:23.033 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenAlex
-13:52:24.405 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenei@ei12.com
-13:52:25.623 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text written12321
-13:52:25.968 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text written12321
-13:52:26.437 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-13:52:26.438 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Filled info Name Alex and emailei@ei12.com
-13:55:59.600 [TestNG-tests-3] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-13:55:59.600 [TestNG-tests-2] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-13:55:59.600 [TestNG-tests-1] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-13:56:07.833 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-13:56:07.833 [TestNG-tests-1] INFO  resources.Base - Initialized
-13:56:07.834 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-13:56:12.117 [TestNG-tests-3] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-13:56:20.827 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Home_page - Searching for product Samsung
-13:56:21.223 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenSamsung
-13:56:22.359 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Hovered successfully
-13:56:25.414 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-13:56:25.414 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Successfully hovered onto signup details
-13:56:25.415 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Filling signup details
-13:56:25.715 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenAlex
-13:56:26.709 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenei@ei12.com
-13:56:26.936 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text written12321
-13:56:27.117 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Text written12321
-13:56:27.511 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-13:56:27.512 [TestNG-tests-1] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Filled info Name Alex and emailei@ei12.com
-13:56:28.433 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-13:56:28.512 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetching prices
-13:56:28.581 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Prices are in: $
-13:56:29.683 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Prices Stored successfully
-13:56:29.684 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetched prices are: [899, 999, 599, 597, 399, 154, 129, 197, 599, 159, 309, 20, 27, 179, 419, 7, 29]
-13:56:29.688 [TestNG-tests-2] INFO  AamazonMaven.Amazon_Maven.Search_page - Minimun amount is:7
-13:57:37.651 [TestNG] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-13:57:37.670 [TestNG] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-13:57:37.670 [TestNG] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
-13:57:42.173 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-13:57:42.236 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-13:57:46.842 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
-13:57:46.842 [TestNG] INFO  resources.Base - Initialized
-13:57:52.811 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Searching for product Samsung
-13:57:54.139 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenSamsung
-13:57:59.613 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-13:58:00.918 [TestNG] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetching prices
-13:58:01.110 [TestNG] INFO  AamazonMaven.Amazon_Maven.Search_page - Prices are in: $
-13:58:01.351 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Hovered successfully
-13:58:02.482 [TestNG] INFO  AamazonMaven.Amazon_Maven.Search_page - Prices Stored successfully
-13:58:02.483 [TestNG] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetched prices are: [899, 999, 597, 599, 20, 399, 899, 129, 154, 159, 599, 309, 249, 419, 27, 179, 12, 11]
-13:58:02.484 [TestNG] INFO  AamazonMaven.Amazon_Maven.Search_page - Minimun amount is:11
-13:58:04.217 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-13:58:04.217 [TestNG] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Successfully hovered onto signup details
-13:58:04.217 [TestNG] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Filling signup details
-13:58:05.128 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenAlex
-13:58:05.398 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenei@ei12.com
-13:58:05.602 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Text written12321
-13:58:05.797 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Text written12321
-13:58:06.221 [TestNG] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
-13:58:06.222 [TestNG] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Filled info Name Alex and emailei@ei12.com
+12:21:05.808 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
+12:21:16.662 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
+12:21:16.984 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Searching for product Samsung
+12:21:17.516 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenSamsung
+12:21:22.283 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
+12:21:22.286 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
+12:21:37.183 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
+12:21:43.291 [main] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetching prices
+12:21:49.477 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
+12:21:56.197 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
+12:22:24.541 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
+12:22:34.338 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
+12:22:35.001 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Hovered successfully
+12:22:35.002 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Move action performed to hover on language element
+12:22:38.473 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Language selected successfully
+12:22:38.559 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
+12:22:49.195 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
+12:25:01.985 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
+12:25:12.342 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
+12:25:13.050 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Hovered successfully
+12:25:13.051 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Move action performed to hover on language element
+12:25:17.082 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Language selected successfully
+12:25:29.436 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
+12:25:37.562 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
+12:25:37.948 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Searching for product Samsung
+12:25:38.442 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenSamsung
+12:25:42.249 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
+12:25:42.391 [main] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetching prices
+12:25:42.465 [main] INFO  AamazonMaven.Amazon_Maven.Search_page - Prices are in: $
+12:25:43.359 [main] INFO  AamazonMaven.Amazon_Maven.Search_page - Prices Stored successfully
+12:25:43.359 [main] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetched prices are: [699, 549, 599, 164, 179, 20, 312, 32, 159, 129, 210, 25, 169, 419, 949, 8, 11, 15]
+12:25:43.364 [main] INFO  AamazonMaven.Amazon_Maven.Search_page - Minimun amount is:8
+12:26:27.139 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
+12:26:37.541 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
+12:26:38.633 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Hovered successfully
+12:26:40.447 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
+12:26:40.447 [main] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Successfully hovered onto signup details
+12:26:40.448 [main] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Filling signup details
+12:26:41.324 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenAlex
+12:26:41.605 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenei@ei12.com
+12:26:41.797 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Text written12321
+12:26:41.951 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Text written12321
+12:26:42.306 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
+12:26:42.307 [main] INFO  AamazonMaven.Amazon_Maven.SignUp_page - Filled info Name Alex and emailei@ei12.com
+12:26:42.383 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Searching for product Samsung
+12:26:48.895 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Text writtenSamsung
+12:26:51.888 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Element clicked
+12:26:51.993 [main] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetching prices
+12:26:52.032 [main] INFO  AamazonMaven.Amazon_Maven.Search_page - Prices are in: $
+12:26:52.724 [main] INFO  AamazonMaven.Amazon_Maven.Search_page - Prices Stored successfully
+12:26:52.724 [main] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetched prices are: [549, 599, 164, 40, 129, 249, 32, 210, 20, 38, 169, 25, 159, 75, 19, 24, 8]
+12:26:52.728 [main] INFO  AamazonMaven.Amazon_Maven.Search_page - Minimun amount is:8
+12:26:52.929 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Hovered successfully
+12:26:52.929 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Move action performed to hover on language element
+12:26:56.339 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Language selected successfully
+12:50:33.530 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
+12:50:44.268 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
+12:50:44.596 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Searching for product Samsung
+12:50:45.061 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Text writtenSamsung
+12:50:48.886 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Element clicked
+12:50:48.889 [main] DEBUG AamazonMaven.Amazon_Maven.Home_page - Initializing chrome browser
+12:50:59.457 [main] INFO  AamazonMaven.Amazon_Maven.Home_page - Browser opened successfully
+12:51:05.588 [main] INFO  AamazonMaven.Amazon_Maven.Search_page - Fetching prices
+14:19:32.953 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:19:33.110 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:19:33.110 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:19:33.230 [main] INFO  com.amazon.pages.Search_page - Searching for product Samsung
+14:24:37.459 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:24:37.634 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:24:37.634 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:24:37.726 [main] INFO  com.amazon.pages.Search_page - Searching for product Samsung
+14:29:11.579 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:29:11.709 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:29:11.709 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:34:02.128 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:34:02.243 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:34:02.243 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:35:08.931 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:35:09.068 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:42:22.916 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:42:23.043 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:44:26.336 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:44:26.490 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:45:57.373 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+14:45:57.525 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+15:45:15.167 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+15:45:15.346 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+15:47:48.452 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+15:47:48.583 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+15:50:00.986 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+15:50:01.151 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+15:50:32.876 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+15:50:33.046 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+15:52:27.579 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+15:52:27.724 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+15:55:40.975 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+15:55:41.139 [main] ERROR com.amazon.pages.Home_page - Unable to find provided properties files
+15:56:21.452 [main] DEBUG com.amazon.pages.Home_page - Initializing chrome browser
+15:56:32.340 [main] INFO  com.amazon.pages.Home_page - Browser opened successfully
+15:56:32.456 [main] DEBUG com.amazon.pages.Home_page - Initializing chrome browser
+15:56:42.697 [main] INFO  com.amazon.pages.Home_page - Browser opened successfully
+15:56:43.464 [main] DEBUG com.amazon.pages.Home_page - Hovered successfully
+15:56:45.757 [main] DEBUG com.amazon.pages.Home_page - Element clicked
+15:56:45.757 [main] INFO  com.amazon.pages.SignUp_page - Successfully hovered onto signup details
+15:56:45.758 [main] INFO  com.amazon.pages.SignUp_page - Filling signup details
+15:56:46.920 [main] DEBUG com.amazon.pages.Home_page - Text writtenAlex
+15:56:47.509 [main] DEBUG com.amazon.pages.Home_page - Text writtenei@ei12.com
+15:56:48.045 [main] DEBUG com.amazon.pages.Home_page - Text written12321
+15:56:48.518 [main] DEBUG com.amazon.pages.Home_page - Text written12321
+15:56:48.926 [main] DEBUG com.amazon.pages.Home_page - Element clicked
+15:56:48.926 [main] INFO  com.amazon.pages.SignUp_page - Filled info Name Alex and emailei@ei12.com
+15:57:27.411 [main] DEBUG com.amazon.pages.Home_page - Initializing chrome browser
+15:58:56.671 [main] DEBUG com.amazon.pages.Home_page - Initializing chrome browser
+15:59:13.414 [main] INFO  com.amazon.pages.Home_page - Browser opened successfully
+15:59:13.647 [main] DEBUG com.amazon.pages.Home_page - Initializing chrome browser
+15:59:27.701 [main] INFO  com.amazon.pages.Home_page - Browser opened successfully
+15:59:28.764 [main] DEBUG com.amazon.pages.Home_page - Hovered successfully
+15:59:30.927 [main] DEBUG com.amazon.pages.Home_page - Element clicked
+15:59:30.927 [main] INFO  com.amazon.pages.SignUp_page - Successfully hovered onto signup details
+15:59:30.927 [main] INFO  com.amazon.pages.SignUp_page - Filling signup details
+15:59:31.105 [main] DEBUG com.amazon.pages.Home_page - Text writtenAlex
+15:59:31.413 [main] DEBUG com.amazon.pages.Home_page - Text writtenei@ei12.com
+15:59:32.295 [main] DEBUG com.amazon.pages.Home_page - Text written12321
+15:59:32.503 [main] DEBUG com.amazon.pages.Home_page - Text written12321
+15:59:32.923 [main] DEBUG com.amazon.pages.Home_page - Element clicked
+15:59:32.924 [main] INFO  com.amazon.pages.SignUp_page - Filled info Name Alex and emailei@ei12.com
+16:04:17.251 [main] DEBUG com.amazon.pages.Home_page - Initializing chrome browser
+16:04:27.869 [main] INFO  com.amazon.pages.Home_page - Browser opened successfully
+16:04:28.015 [main] DEBUG com.amazon.pages.Home_page - Initializing chrome browser
+16:04:39.582 [main] INFO  com.amazon.pages.Home_page - Browser opened successfully
+16:04:40.401 [main] DEBUG com.amazon.pages.Home_page - Hovered successfully
+16:04:42.451 [main] DEBUG com.amazon.pages.Home_page - Element clicked
+16:04:42.452 [main] INFO  com.amazon.pages.SignUp_page - Successfully hovered onto signup details
+16:04:42.452 [main] INFO  com.amazon.pages.SignUp_page - Filling signup details
+16:04:43.409 [main] DEBUG com.amazon.pages.Home_page - Text writtenAlex
+16:04:43.762 [main] DEBUG com.amazon.pages.Home_page - Text writtenei@ei12.com
+16:04:43.993 [main] DEBUG com.amazon.pages.Home_page - Text written12321
+16:04:44.284 [main] DEBUG com.amazon.pages.Home_page - Text written12321
+16:04:44.813 [main] DEBUG com.amazon.pages.Home_page - Element clicked
+16:04:44.814 [main] INFO  com.amazon.pages.SignUp_page - Filled info Name Alex and emailei@ei12.com
+16:09:38.121 [main] DEBUG com.amazon.pages.Home_page - Initializing chrome browser
+16:09:49.494 [main] INFO  com.amazon.pages.Home_page - Browser opened successfully
+16:09:49.618 [main] DEBUG com.amazon.pages.Home_page - Initializing chrome browser
+16:10:00.159 [main] INFO  com.amazon.pages.Home_page - Browser opened successfully
+10:40:13.688 [main] DEBUG com.amazon.pages.Home_page - Initializing chrome browser
+10:40:23.509 [main] INFO  com.amazon.pages.Home_page - Browser opened successfully
+10:40:23.656 [main] DEBUG com.amazon.pages.Home_page - Initializing chrome browser
+10:40:32.792 [main] INFO  com.amazon.pages.Home_page - Browser opened successfully
+10:40:33.760 [main] DEBUG com.amazon.pages.Home_page - Hovered successfully
+10:40:36.097 [main] DEBUG com.amazon.pages.Home_page - Element clicked
+10:40:36.097 [main] INFO  com.amazon.pages.SignUp_page - Successfully hovered onto signup details
+10:40:36.097 [main] INFO  com.amazon.pages.SignUp_page - Filling signup details
+10:40:36.304 [main] DEBUG com.amazon.pages.Home_page - Text writtenAlex
+10:40:37.304 [main] DEBUG com.amazon.pages.Home_page - Text writtenei@ei12.com
+10:40:37.867 [main] DEBUG com.amazon.pages.Home_page - Text written12321
+10:40:38.203 [main] DEBUG com.amazon.pages.Home_page - Text written12321
+10:40:38.531 [main] DEBUG com.amazon.pages.Home_page - Element clicked
+10:40:38.531 [main] INFO  com.amazon.pages.SignUp_page - Filled info Name Alex and emailei@ei12.com

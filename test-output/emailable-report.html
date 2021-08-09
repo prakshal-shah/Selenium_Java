@@ -8,48 +8,11 @@
 <body>
 <table>
 <tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
-<tr><th colspan="8">Suite</th></tr>
-<tr><td><a href="#t0">Change language</a></td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num attn">1</td><td class="num">31,935</td><td></td><td></td></tr>
-<tr class="stripe"><td><a href="#t1">Search Product</a></td><td class="num">3</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">33,151</td><td></td><td></td></tr>
-<tr><td><a href="#t2">SignUp</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">33,675</td><td></td><td></td></tr>
-<tr><th>Total</th><th class="num">4</th><th class="num">0</th><th class="num">0</th><th class="num attn">1</th><th class="num">98,761</th><th colspan="2"></th></tr>
+<tr><th colspan="8">Default suite</th></tr>
+<tr><td><a href="#t0">Default test</a></td><td class="num">1</td><td class="num">0</td><td class="num">0</td><td class="num">0</td><td class="num">5,716</td><td></td><td></td></tr>
 </table>
-<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Change language &#8212; failed</th></tr><tr class="failedeven"><td rowspan="1">AamazonMaven.Amazon_Maven.LanguageTest</td><td><a href="#m0">changeLanguage</a></td><td rowspan="1">1627633572118</td><td rowspan="1">11354</td></tr></tbody>
-<tbody id="t1"><tr><th colspan="4">Search Product &#8212; passed</th></tr><tr class="passedeven"><td rowspan="3">AamazonMaven.Amazon_Maven.SearchProduct</td><td><a href="#m1">getPrice</a></td><td rowspan="1">1627633588436</td><td rowspan="1">1248</td></tr><tr class="passedeven"><td><a href="#m2">minPrice</a></td><td rowspan="1">1627633589686</td><td rowspan="1">2</td></tr><tr class="passedeven"><td><a href="#m3">searchProduct</a></td><td rowspan="1">1627633567950</td><td rowspan="1">20484</td></tr></tbody>
-<tbody id="t2"><tr><th colspan="4">SignUp &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">AamazonMaven.Amazon_Maven.HomePage</td><td><a href="#m4">signUp</a></td><td rowspan="1">1627633567932</td><td rowspan="1">19580</td></tr></tbody>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Default suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Default test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="1">com.amazon.testcases.HomePage</td><td><a href="#m0">signUp</a></td><td rowspan="1">1628226633152</td><td rowspan="1">5379</td></tr></tbody>
 </table>
-<h2>Change language</h2><h3 id="m0">AamazonMaven.Amazon_Maven.LanguageTest#changeLanguage</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {&quot;method&quot;:&quot;css selector&quot;,&quot;selector&quot;:&quot;#\31 &quot;}
-  (Session info: chrome=91.0.4472.114)
-For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
-Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:25:48&apos;
-System info: host: &apos;HF1B042&apos;, ip: &apos;192.168.43.17&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;16.0.1&apos;
-Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 91.0.4472.114, chrome: {chromedriverVersion: 91.0.4472.101 (af52a90bf870..., userDataDir: C:\Users\112208\AppData\Loc...}, goog:chromeOptions: {debuggerAddress: localhost:60555}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 9783238b197069050a746d7ad7969ca3
-*** Element info: {Using=id, value=1}
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
-	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
-	at org.openqa.selenium.By$ById.findElement(By.java:188)
-	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-	at support_methods.SupportMethods.find_Element(SupportMethods.java:66)
-	at support_methods.DriverMethods.performAction(DriverMethods.java:64)
-	at AamazonMaven.Amazon_Maven.Home_page.changeLanguage(Home_page.java:41)
-	at AamazonMaven.Amazon_Maven.LanguageTest.changeLanguage(LanguageTest.java:36)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
-	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1130)
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:630)
-	at java.base/java.lang.Thread.run(Thread.java:831)
-... Removed 23 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h2>Search Product</h2><h3 id="m1">AamazonMaven.Amazon_Maven.SearchProduct#getPrice</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m2">AamazonMaven.Amazon_Maven.SearchProduct#minPrice</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h3 id="m3">AamazonMaven.Amazon_Maven.SearchProduct#searchProduct</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
-<h2>SignUp</h2><h3 id="m4">AamazonMaven.Amazon_Maven.HomePage#signUp</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h2>Default test</h2><h3 id="m0">com.amazon.testcases.HomePage#signUp</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
 </body>
 </html>

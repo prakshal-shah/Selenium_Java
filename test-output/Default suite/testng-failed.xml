@@ -3,13 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="AamazonMaven.Amazon_Maven.LanguageTest">
+      <class name="com.amazon.testcases.HomePage">
         <methods>
-          <include name="changeLanguage"/>
-          <include name="initialization"/>
-          <include name="finalizer"/>
+          <include name="signUp"/>
+          <include name="tearDown"/>
         </methods>
-      </class> <!-- AamazonMaven.Amazon_Maven.LanguageTest -->
+      </class> <!-- com.amazon.testcases.HomePage -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
